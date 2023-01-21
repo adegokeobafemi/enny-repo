@@ -1,12 +1,11 @@
 <!DOCTYPE 
 <html>
-    <Title>Congratulation becoming a DevOps Engineer</Title>
+    <Title>Welcome To DevOps Module</Title>
 <body>
 
-<h1> Gentlemen, I am happy to inform you that the cicd pipeline is finally working.</h1>
+<h1> Gentlemen, this is the time you have een waiting for.</h1>
 </br>
-<p>...having spent quality time to repeat tasks severally just to gain good understanding of the concepts, every
-    single commit now results in a new build and a new deployment in operations.
+<p>...may your path be light.
 </p>
 
 </body>
